@@ -10,6 +10,7 @@ d is the number of non-seasonal difference needed for stationarity .
 q is the number of lagged forecast errors in the pridiction equation.
 
 What we do -
+
 1 - Firstly we check for stationarity of our data.
  "Stationarity" implies that the series remains at a fairly constant level over time. If a trend exists then the time series is called as non-stationary . We found that our data as non-stationary.
 
